@@ -7,7 +7,7 @@
 <h6>How to use ?</h6>
 
 ```
-  - open instagram.con and login in chrome browser
+  - open instagram.com and login in chrome browser
   
   - open victim's chat [make sure correct victim's chat is open]
   
