@@ -8,10 +8,15 @@
 
 ```
   - open instagram.con and login in chrome browser
+  
   - open victim's chat [make sure correct victim's chat is open]
+  
   - change value of varible max , Here max is number of messages. 
   [if max=50 then 50 messages will be sended to victim]
+  
+  
   - open console [ctrl+shift+i] copy script and paste it in console.
+  
   - That is it !
 
 Give a ⭐ if you like it
